@@ -82,14 +82,14 @@ body {
   margin: 10px 5px;
 }
 
-.color__block-bl {
+.color__block-black {
   color: white;
   background-color: black;
   height: 400px;
   padding-top: 20px;
 }
 
-.color__block-wh {
+.color__block-white {
   color: black;
   background-color: white;
   height: 400px;
